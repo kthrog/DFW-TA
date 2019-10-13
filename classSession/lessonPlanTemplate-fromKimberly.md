@@ -1,6 +1,7 @@
+## LESSON PLAN TEMPLATE
 Course Title: AHE 330
-Date(s): - -
-Instructor(s): - -
+Date(s): 
+Instructor(s): 
 
 **HANDOUTS, RESOURCES AND WEBSITES**
 - [ ] (Add)
@@ -18,17 +19,17 @@ Instructor(s): - -
 - [ ] (Add)
 - [ ] (Add)
 
-**ACTIVITY:** How will the students learn?
-What instruction mediums will be used (e.g. in person, online, hybrid or technology supported)? What potential
-threats/obstacles are associated with my choices? What steps can I take to minimize these?
+**ACTIVITY:** How will the students learn? What instruction mediums will be used (e.g. in person, online, hybrid or technology supported)? What potential threats/obstacles are associated with my choices? What steps can I take to minimize these?
 
-1st Hour
+*1st Hour*
 - [ ] (Add)
 - [ ] (Add)
--2nd Hour
+
+*2nd Hour*
 - [ ] (Add)
 - [ ] (Add)
--3rd Hour
+
+*3rd Hour*
 - [ ] (Add)
 - [ ] (Add)
 
