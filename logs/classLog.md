@@ -2,7 +2,7 @@
 | --- | --- | --- | --- |
 | September 25 | Intro, Syllabus, How to Survive a Plague (video) | Video was extremely powerful (and tragic), and had a lot of connections to data literacy that could be made. | 3.5 hours |
 | October 2 | Types of Studies, Video Discussion | Interesting to see the levels of understanding of research literature. Also need to research EthnoMed more. | 3.5 hours |
-| October 9 | - | - | - |
+| October 9 | EthnoMed Guest Talk, PICO (Patient, Intervention, Comparison, Outcome), Group Contracts | Great discussion of how to narrow and broaden topics. Also interesting to hear from an EthnoMed representative and learn more about the global reach of what is technically a local Seattle tool. | 3.5 hours |
 | October 16 | - | - | - |
 | October 23 | UW Libraries Tour | - | - |
 | October 30 | No class meeting | - | - | - |
