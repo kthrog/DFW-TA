@@ -8,3 +8,8 @@ hooks, b. (1994). Teaching to Transgress. New York, NY: Routledge.
 
 Miller, D. (August 5, 2015). 8 components of a reflective classroom. *Facing Today.* Retrieved from https://facingtoday.facinghistory.org/8-components-of-a-reflective-classroom.
 
+
+*Critical Pedagogy + Open Data / Data / Data Literacy*
+Manca, A., Atenas, J., Ciociola, C., & Nascimbeni, F. (2017). Critical pedagogy and open data for educating towards social cohesion. Italian Journal of Educational Technology, 25(1), 111-115. DOI: 10.17471/2499-4324/917.
+
+
