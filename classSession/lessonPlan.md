@@ -3,7 +3,7 @@
 **Three data literacy concepts to cover:**
 1. Big Data
 2. Data Privacy 
-3. Open Data + Making Data More Accessible to a Larger Audience
+3. Open Data + Data Repositories + Making Data More Accessible to a Larger Audience
 
 **Q&A period at beginning:**
 - Start by asking students to name ways they might have created data today
@@ -14,7 +14,10 @@
 - Definitions
 - Ethics
 - Use cases
+- Emphasize that data is just part of the picture, and it is not objective or unbiased - that 'data doesn't lie' is actually untrue!
 
 **Activity**
+[Systematic Review Data Repository](https://srdr.ahrq.gov) - by U.S. DHHS
+Data.WA.gov? [all health data](https://data.wa.gov/browse?category=Health)
 Wikidata?
-Data.WA.gov?
+- some interesting entries: [breast cancer](https://www.wikidata.org/wiki/Q128581)
