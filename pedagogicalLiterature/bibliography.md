@@ -1,5 +1,8 @@
 ## Bibliography of Pedagogical Literature 
 
+Accardi, M.T., & Vukovic, J. (2013). *Feminist pedagogy for library instruction.* Sacramento, CA: Library Juice Press.
+
+
 Bell, J. (December 12, 2014). How to improve discussion of race in the classroom. *The Chronicle of Higher Education.* Retrieved from https://www.chronicle.com/article/How-to-Improve-Discussion-of/150857/?cid=pm&utm_medium=en&utm_source=pm. 
 
 Drabinski, E., Kumbier, A., & Accardi (Eds.). (2010). *Critical library instruction: Theories and methods.* Duluth, MN: Library Juice Press. 
