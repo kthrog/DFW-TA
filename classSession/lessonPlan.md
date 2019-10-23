@@ -17,7 +17,6 @@
 - Emphasize that data is just part of the picture, and it is not objective or unbiased - that 'data doesn't lie' is actually untrue!
 
 **Activity**
-[Systematic Review Data Repository](https://srdr.ahrq.gov) - by U.S. DHHS
-Data.WA.gov? [all health data](https://data.wa.gov/browse?category=Health)
-Wikidata?
-- some interesting entries: [breast cancer](https://www.wikidata.org/wiki/Q128581)
+- [Systematic Review Data Repository](https://srdr.ahrq.gov) by U.S. DHHS
+- Data.WA.gov? [All health data](https://data.wa.gov/browse?category=Health)
+- Wikidata? Some interesting entries: [breast cancer](https://www.wikidata.org/wiki/Q128581)
