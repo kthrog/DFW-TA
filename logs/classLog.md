@@ -4,7 +4,7 @@
 | **September 25** | Intro, Syllabus, How to Survive a Plague (video) | Video was extremely powerful (and tragic), and had a lot of connections to data literacy that could be made. | 3.5 hours |
 | **October 2** | Types of Studies, Video Discussion | Interesting to see the levels of understanding of research literature. Also need to research EthnoMed more. | 3.5 hours |
 | **October 9** | EthnoMed Guest Talk, PICO (Patient, Intervention, Comparison, Outcome), Group Contracts | Great discussion of how to narrow and broaden topics; helped some students think through how to take their idea and apply it to what EthnoMed wants from student submissions. Also interesting to hear from an EthnoMed representative and learn more about the global reach of what is technically a local Seattle tool. | 3.5 hours |
-| October 16 | - | - | - |
+| **October 16** | Search-A-Palooza! | Covered a variety of databases including PubMed, Google Scholar, etc. Helped students conduct searches, including constructing search terms and navigating various tools in PubMed. First time speaking in front of class (for just a few minutes), to show why MeSH terms can be helpful, and to talk a little about how learning to search is a bit like learning to speak the search engine's language. | 3.5 hours |
 | October 23 | UW Libraries Tour | - | - |
 | October 30 | No class meeting | - | - | - |
 | November 6 | - | - | - |
