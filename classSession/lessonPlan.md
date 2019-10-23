@@ -16,7 +16,14 @@
 - Use cases
 - Emphasize that data is just part of the picture, and it is not objective or unbiased - that 'data doesn't lie' is actually untrue!
 
-**Activity**
+**Activity:**
 - [NIH Data Repositories](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html)
 - Data.WA.gov? [All health data](https://data.wa.gov/browse?category=Health)
 - Wikidata? Some interesting entries: [breast cancer](https://www.wikidata.org/wiki/Q128581)
+
+**Sources:**
+[Fast Company: You can now make money selling your own health data, but should you?](https://www.fastcompany.com/90409942/would-you-sell-your-own-health-data-theres-a-market-for-it-but-ethical-concerns-remain) 
+[The Scientist: Sequences of African Genomes Highlights Long-Overlooked Diversity](https://www.the-scientist.com/news-opinion/sequences-of-african-genomes-highlights-long-overlooked-diversity-66598)
+
+**For Fun:**
+Conflicting research and data dredging... and why science can't seem to tell us why coffee is good or bad for us on Patriot Act with Hasan Minhaj [YouTube](https://www.youtube.com/watch?v=6HsC3wsTxms)
