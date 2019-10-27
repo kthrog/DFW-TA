@@ -22,8 +22,8 @@
 - Wikidata? Some interesting entries: [breast cancer](https://www.wikidata.org/wiki/Q128581)
 
 **Sources:**
-[Fast Company: You can now make money selling your own health data, but should you?](https://www.fastcompany.com/90409942/would-you-sell-your-own-health-data-theres-a-market-for-it-but-ethical-concerns-remain) 
-[The Scientist: Sequences of African Genomes Highlights Long-Overlooked Diversity](https://www.the-scientist.com/news-opinion/sequences-of-african-genomes-highlights-long-overlooked-diversity-66598)
+- [Fast Company: You can now make money selling your own health data, but should you?](https://www.fastcompany.com/90409942/would-you-sell-your-own-health-data-theres-a-market-for-it-but-ethical-concerns-remain) 
+- [The Scientist: Sequences of African Genomes Highlights Long-Overlooked Diversity](https://www.the-scientist.com/news-opinion/sequences-of-african-genomes-highlights-long-overlooked-diversity-66598)
 
 **For Fun:**
-Conflicting research and data dredging... and why science can't seem to tell us why coffee is good or bad for us on Patriot Act with Hasan Minhaj [YouTube](https://www.youtube.com/watch?v=6HsC3wsTxms)
+- Conflicting research and data dredging... and why science can't seem to tell us why coffee is good or bad for us on Patriot Act with Hasan Minhaj [YouTube](https://www.youtube.com/watch?v=6HsC3wsTxms)
