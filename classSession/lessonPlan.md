@@ -16,8 +16,13 @@
 - Use cases
 - Emphasize that data is just part of the picture, and it is not objective or unbiased - that 'data doesn't lie' is actually untrue!
 
+**Examples to show**
+- [State-level respite care, funding, etc. in NACDA](https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/6584/summary)
+- [Data Sharing for Demographic Research](https://www.icpsr.umich.edu/icpsrweb/content/DSDR/index.html)
+
 **Activity:**
 - [NIH Data Repositories](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html)
+- [ICPSR](https://www.icpsr.umich.edu/icpsrweb/)
 - Data.WA.gov? [All health data](https://data.wa.gov/browse?category=Health)
 - Wikidata? Some interesting entries: [breast cancer](https://www.wikidata.org/wiki/Q128581)
 
