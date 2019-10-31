@@ -31,6 +31,9 @@
 - Data.WA.gov? [All health data](https://data.wa.gov/browse?category=Health)
 - Wikidata? Some interesting entries: [breast cancer](https://www.wikidata.org/wiki/Q128581)
 
+**Discussion**
+Create a discussion thread in advance with a couple of question / discussion starters + sources to check out. 
+
 **Sources:**
 - [Fast Company: You can now make money selling your own health data, but should you?](https://www.fastcompany.com/90409942/would-you-sell-your-own-health-data-theres-a-market-for-it-but-ethical-concerns-remain) 
 - [The Scientist: Sequences of African Genomes Highlights Long-Overlooked Diversity](https://www.the-scientist.com/news-opinion/sequences-of-african-genomes-highlights-long-overlooked-diversity-66598)
