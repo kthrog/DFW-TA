@@ -27,6 +27,7 @@
 **Activity:**
 - [NIH Data Repositories](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html)
 - [ICPSR](https://www.icpsr.umich.edu/icpsrweb/)
+- [PH Partners](https://www.phpartners.com) Public Health Data
 - Data.WA.gov? [All health data](https://data.wa.gov/browse?category=Health)
 - Wikidata? Some interesting entries: [breast cancer](https://www.wikidata.org/wiki/Q128581)
 
