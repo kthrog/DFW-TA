@@ -19,6 +19,10 @@
 **Examples to show**
 - [State-level respite care, funding, etc. in NACDA](https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/6584/summary)
 - [Data Sharing for Demographic Research](https://www.icpsr.umich.edu/icpsrweb/content/DSDR/index.html)
+- [Influenza Research Database](https://www.fludb.org/brc/home.spg?decorator=influenza)
+- [Data.gov Health Data Catalog](https://catalog.data.gov/dataset?_organization_limit=0&organization=hhs-gov#topic=health_navigation)
+- [National Survey of Substance Abuse Treatment Services - NSSATS 2013](https://catalog.data.gov/dataset/national-survey-of-substance-abuse-treatment-services-n-ssats-2013)
+
 
 **Activity:**
 - [NIH Data Repositories](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html)
