@@ -30,6 +30,7 @@
 - [PH Partners](https://www.phpartners.com) Public Health Data
 - Data.WA.gov? [All health data](https://data.wa.gov/browse?category=Health)
 - Wikidata? Some interesting entries: [breast cancer](https://www.wikidata.org/wiki/Q128581)
+- [Project CORA](https://www.projectcora.org) 
 
 **Discussion**
 Create a discussion thread in advance with a couple of question / discussion starters + sources to check out. 
