@@ -5,10 +5,10 @@ Date(s): November 13, 2019
 Instructor(s): Kaitlin Throgmorton
 
 **TOPIC IDEAS**
-- [ ] Big Data
-- [ ] Open Data
-- [ ] Data Ethics
-- [ ] Health Data: Where Is It, How Do You Use it, and What to Know Before You Do
+- Big Data
+- Open Data
+- Data Ethics
+- Health Data: Where Is It, and What to Know Before You Use It
 
 **LEARNING OUTCOMES:** What should the students be able to do?
 - [ ] Define 'big data' and 'open data.'
@@ -19,22 +19,22 @@ Instructor(s): Kaitlin Throgmorton
 **ACTIVITY:** How will the students learn? What instruction mediums will be used (e.g. in person, online, hybrid or technology supported)? What potential threats/obstacles are associated with my choices? What steps can I take to minimize these?
 
 *1st Hour - In-person, tech-supported in computer lab*
-- [ ] Discussion about data in our daily lives
-- [ ] Brief lecture (with slides) on big data, open data, data repsositories, and data privacy
-- [ ] Group walk-through of NIH data repositories, data.gov, data.wa.gov, and Google Dataset Search 
-- [ ] Activity 1: Find a dataset that could enhance your literature review
-- [ ] Activity 2: In development
+- [ ] Discussion about data in our daily lives (10 min)
+- [ ] Brief lecture (with slides) on big data, open data, data repsositories, and data privacy (15 min)
+- [ ] Group walk-through of NIH data repositories, data.gov, data.wa.gov, and Google Dataset Search (10 min)
+- [ ] Activity 1: Find a dataset that could enhance your literature review (10 min)
+- [ ] Activity 2: In development (10 min)
 
 Discussion questions:
-- Ask students to name ways they might have created data today
-- Then ask students who owns that data they've created -- are they comfortable with that ownership?
-- Relate this to health data in the CHED and HSM worlds -- how much patient data is being created, who owns it, and is that structure working? How much health data should be kept private, and how much should be shared for the public good? And of the data that's private, is it even accessible to the patients themselves? Why is this? Can we change it? Should we change it?
+- [ ] Ask students to name ways they might have created data today
+- [ ] Then ask students who owns that data they've created -- are they comfortable with that ownership?
+- [ ] Relate this to health data in the CHED and HSM worlds -- how much patient data is being created, who owns it, and is that structure working? How much health data should be kept private, and how much should be shared for the public good? And of the data that's private, is it even accessible to the patients themselves? Why is this? Can we change it? Should we change it?
 
 Lecture slide content:
-- Definitions
-- Ethics
-- Use cases
-- Emphasize that data is just part of the picture, and it is not objective or unbiased - that 'data doesn't lie' is actually untrue!
+- [ ] Definitions
+- [ ] Ethics
+- [ ] Use cases
+- [ ] Emphasize that data is just part of the picture, and it is not objective or unbiased - that 'data doesn't lie' is actually untrue!
 
 Example data / repositories:
 - [State-level respite care, funding, etc. in NACDA](https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/6584/summary)
@@ -54,23 +54,15 @@ Potential obstacles: Data is sometimes an overwhelming subject -- trying to brea
 Further discussion:
 Prep discussion post to continue conversation about open data online. 
 
-*2nd Hour*
-- [ ] (Add)
-- [ ] (Add)
-
-*3rd Hour*
-- [ ] (Add)
-- [ ] (Add)
 
 **RESPONSIVENESS:** How will I engage students’ cultures and other dimensions of diversity? Have I inquired into the Culture of the classroom/ cultural frameworks of the students?
-- [ ] Data is often seen as objective in American scientific culture; I want to combat this idea with well-rounded data literacy, while still showing data to be one useful tool among many, when practicing evidence-based medicine. 
+- Data is often seen as objective in American scientific culture; I want to combat this idea with well-rounded data literacy, while still showing data to be one useful tool among many, when practicing evidence-based medicine. 
 
 **INFORMATION LITERACY LESSON PLAN:** Are there any students who belong to a cultural group with specific needs to address (e.g.
 physical or learning disability, English Language Learners, etc.)? How can I address these needs? (Review limitations Kimberly sent.) Whose voice/perspective is being privileged by this lesson? Which DISCOURSE STYLES are being utilized in this lesson? What examples/metaphors/search terms will I use? Are these culturally relevant and appropriate to students?
-- [ ] Discourse styles: group discussion, brief lecture, co-learning as we explore data repositories together
+- Discourse styles: group discussion, brief lecture, co-learning as we explore data repositories together
 
 **HANDOUTS, RESOURCES AND WEBSITES**
-- [ ] (Add)
 - [ ] (Add)
 
 **Sources:**
