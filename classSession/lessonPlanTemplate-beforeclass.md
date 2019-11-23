@@ -1,9 +1,7 @@
 ## LESSON PLAN TEMPLATE
 
-Course Title: AHE 330 (Both sections)
-
+Course Title: AHE 330
 Date(s): November 13, 2019 
-
 Instructor(s): Kaitlin Throgmorton
 
 **TOPIC IDEAS**
