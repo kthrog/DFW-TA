@@ -32,7 +32,8 @@ I also drew inspiration for class session activities, as well as some theory of 
 - [Data Literacy [Google Slides]](https://docs.google.com/presentation/d/122rK54HydJYcqo2v7lHLCozPsPQoNiJo6FEYVZ60pLU/edit#slide=id.g70b27e9a39_0_26)
 
 *Slide Notes*
-
+- For slide 7, "The Stakes," I had the following notes: How do we determine the risks and benefits of sharing health and medical data? When is it worth it lose a little privacy to further medical research? When is it worth it to potentially risk data security for the convenience of various apps, websites, etc.? How would you ever know you got your 10,000 steps again? A lot of these discussions come down to ownership, power, and trust -- much like we talked about last week. If a tech company owns all of your health data, do you have any power to control these situations anyway? Should you trust those tech companies? These are decisions we all have to make, and we often make them without thinking them through very carefully. In the health world, especially, it can be our health, or even our life, on the line when we’re being asked to give up this data, so it’s important to think through what that power dynamic means for patients. 
+- For slide 14, "Data Myths," I talked about FitBit's issues with reading heart rates for people of color ([STAT](https://www.statnews.com/2019/07/24/fitbit-accuracy-dark-skin/)), as well as this ['data detective' piece from Scientific American](https://www.scientificamerican.com/article/how-a-data-detective-exposed-suspicious-medical-trials/) on how a curious anaesthetist exposed suspcious medical trials' data. 
 
 **DISCUSSION QUESTIONS**
 
@@ -53,14 +54,13 @@ I also drew inspiration for class session activities, as well as some theory of 
 
 (Note: as mentioned above, this activity was based on a similar activity found in Chapter 3, "Using Data in the Research Process," from [Creating Data Literate Students](http://datalit.sites.uofmhosting.net/books/book/#toc).)
 
-1. Find a news article in which the same data source is cited several times, but with different conclusions. I found the article by using search terms such as 'data conflict,' 'government data,' and other similar terms. (Wish I'd kept better track, used a few.)
+1. Find a news article in which the same data source is cited several times, but with different conclusions. I found the article by using search terms such as 'data conflict,' 'government data,' and other similar terms. (Wish I'd kept better track, used a few.) For this activity, I used this article, "[White House: the opioid epidemic cost $2.5 trillion over 4 years](https://www.vox.com/policy-and-politics/2019/11/1/20943599/opioid-epidemic-cost-white-house-economic-advisers)," in Vox by German Lopez, published November 1, 2019.
 2. Ask students to read the article and then answer the following questions ([handout](https://github.com/kthrog/DFW-TA/blob/master/classSession/DataLiteracyActivity.docx)):
 - What data sources are referenced in this article? 
 - For you to better understand this article, what other data might have been helpful to know?
 - Why do you think the overall costs of the opioid epidemic cited in this article conflict so much?
-3. Discuss how data is visualized to tell a certain story, and discuss conflicts in data representation, even when using the same data source.
-
-For this activity, I used this article, "[White House: the opioid epidemic cost $2.5 trillion over 4 years](https://www.vox.com/policy-and-politics/2019/11/1/20943599/opioid-epidemic-cost-white-house-economic-advisers)," in Vox by German Lopez, published November 1, 2019.
+3. For this article, the main data source used was the CDC Wonder database, CDC's National Vital Statistics (Provisional Drug Overdose Death Counts), and DHHS's SAMHSA, as well as  several outside data reports, including several from Altarum. 
+4. Discuss how data is visualized to tell a certain story, and discuss conflicts in data representation, even when using the same data source.
 
 **NOTES & REFLECTIONS**
 
