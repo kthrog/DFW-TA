@@ -97,11 +97,12 @@ I ended up not using any of these, but they could be incorporated in future:
 
 **PATIENT DATA SECURITY EVOLUTION**
 
-If this class was to be taught again, I think it will be worthwhile to monitor the ongoing avalanche of news about Google's 'Project Nightingale,' the name they gave their merger with Ascension Health. I've been seeing constant articles about this since the news broke a few weeks ago, and I think it's likely to have reverberating effects for some time. A few articles I've come across:
+If this class was to be taught again, I think it will be worthwhile to monitor the ongoing avalanche of news about Google's 'Project Nightingale,' the name they gave their project to acquire lots of health data from Ascension Health as they took them on as a cloud-computing customer. I've been seeing constant articles about this (both for and against) since the news broke a few weeks ago, and I think it's likely to have reverberating effects across healthcare and data privacy for some time. A few articles I've come across:
 - [Could health data privacy kill you? | The Hill](https://thehill.com/opinion/healthcare/471360-could-health-data-privacy-kill-you)  --> about data gaps, and how more health data might actually help us fight illness and disease more effectively; this article also contains an 'updated' HIPAA oath with health data privacy clauses added
 - [I'm the Google whistleblower. The medical data of millions of Americans is at risk | The Guardian](https://www.theguardian.com/commentisfree/2019/nov/14/im-the-google-whistleblower-the-medical-data-of-millions-of-americans-is-at-risk)
 
-
+And then, of course, there's the recent news from Pew Research Center, that American trust in data privacy is incredibly low: 
+- [Americans and Privacy: Concerned, Confused and Feeling Lack of Control Over Their Personal Information](https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/)
 
 **REFERENCES**
 
