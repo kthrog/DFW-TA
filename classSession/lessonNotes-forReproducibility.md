@@ -108,12 +108,22 @@ And then, of course, there's the recent news from Pew Research Center, that Amer
 
 *Both in slides and for notes above.*
 
+Adam, D. (2019). How a Data Detective Exposed Suspicious Medical Trials. Scientific American. Retrieved from https://www.scientificamerican.com/article/how-a-data-detective-exposed-suspicious-medical-trials/. 
+
 Ahmad, F.B., Escobedo, L.A., Rossen, L.M., Spencer, M.R., Warner, M., & Sutton, P. (2019). 
 Provisional drug overdose death counts. National Center for Health Statistics. Retrieved from https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm. 
+
+Anonymous. (2019). I'm the Google whistleblower. The medical data of millions of Americans is at risk. The Guardian. Retrieved from https://www.theguardian.com/commentisfree/2019/nov/14/im-the-google-whistleblower-the-medical-data-of-millions-of-americans-is-at-risk. 
+ 
+Auxier, B., Rainie, L., Anderson, M., Perrin, A., Kumar, M. & Turner, E. (2019). Americans and Privacy: Concerned, Confused and Feeling Lack of Control Over Their Personal Information. Pew Research Center. Retrieved from https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/. 
+
+Berdes, C. (2006). Adult Respite Care Funded or Provided by State Governments, 1992: [United States]. Ann Arbor, MI: Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/ICPSR06584.v1
 
 FAIR Principles. (n.d.) Retrieved from https://www.go-fair.org/fair-principles/. 
 
 Fontichiaro, K., Oehrli, J.A., & Lennex, A. (2015). *Creating Data Literate Students.* Ann Arbor, MI: University of Michigan Press.
+
+Hailu, R. (2019). Fitbits and other wearables may not accurately track heart rates in people of color. Stat. Retrieved from https://www.statnews.com/2019/07/24/fitbit-accuracy-dark-skin/. 
 
 hooks, b. (1994). *Teaching to Transgress.* New York, NY: Routledge.
 
@@ -125,9 +135,15 @@ Lopez, G. (2019). White House: the opioid epidemic cost $2.5 trillion over 4 yea
 
 Manca, A., Atenas, J., Ciociola, C., & Nascimbeni, F. (2017). Critical pedagogy and open data for educating towards social cohesion. Italian Journal of Educational Technology, 25(1), 111-115. DOI: 10.17471/2499-4324/917.
 
+Nash, P. (2019). Could health data privacy kill you? The Hill. Retrieved from https://thehill.com/opinion/healthcare/471360-could-health-data-privacy-kill-you. 
+
 Shannon, C. E. (1948). A mathematical theory of communication. Bell system technical journal, 27(3), 379-423.
 
+Substance Abuse and Mental Health Services Administration. (2017).  National Survey of Substance Abuse Treatment Services (N-SSATS-2013) [Data file]. Retrieved from https://catalog.data.gov/dataset/national-survey-of-substance-abuse-treatment-services-n-ssats-2013.
+
 Ward, J. S., & Barker, A. (2013). Undefined by data: a survey of big data definitions. arXiv preprint arXiv:1309.5821.
+
+Washington State Department of Health. (2016). Health Care Provider Credential Data [Data file]. Retrieved from https://data.wa.gov/Health/Health-Care-Provider-Credential-Data/qxh8-f4bd. 
 
 What Is Open Data?. (n.d.). Retrieved from http://opendatahandbook.org/guide/en/what-is-open-data. 
 
