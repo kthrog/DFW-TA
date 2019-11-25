@@ -2,8 +2,8 @@
 
 **LEARNING OUTCOMES**
 - Define 'data,' 'big data,' and 'open data.'
-- Articulate ethical implications of health data collection/sharing for patient privacy, and contemplate the implications of data ownership for themselves and patients.
-- Understand how bias can influence data collection, interpretation, and visualization, as well as under there's no such thing as 'computer-generated' data.
+- Articulate ethical implications of health data collection/sharing for patient privacy, and contemplate the implications of data ownership for themselves as students, and for patients.
+- Understand how bias can influence data collection, interpretation, and visualization, as well as understand there's no such thing as 'computer-generated' data.
 - Know how to find data sources, particularly on open government data websites such as the CDC, NIH, data.gov, etc.
 - Ultimately, walk away knowing how to evaluate data sources more effectively, and more thoughtful about how and why data is now intertwined in our daily lives. 
      
