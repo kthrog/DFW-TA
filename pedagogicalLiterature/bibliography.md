@@ -6,6 +6,8 @@ Bell, J. (December 12, 2014). How to improve discussion of race in the classroom
 
 Drabinski, E., Kumbier, A., & Accardi (Eds.). (2010). *Critical library instruction: Theories and methods.* Duluth, MN: Library Juice Press. 
 
+Fullagar, S., Rich, E., & Francombe-Webb, J. (2017). New Kinds of (Ab)normal?: Public Pedagogies, Affect, and Youth Mental Health in the Digital Age. *Social Sciences 6*(3), 99, 1-12. doi:10.3390/socsci6030099.
+
 hooks, b. (1994). *Teaching to Transgress.* New York, NY: Routledge.
 
 Manca, A., Atenas, J., Ciociola, C., & Nascimbeni, F. (2017). Critical pedagogy and open data for educating towards social cohesion. *Italian Journal of Educational Technology, 25*(1), 111-115. DOI: 10.17471/2499-4324/917.
