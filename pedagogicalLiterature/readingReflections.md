@@ -41,6 +41,21 @@ The other thing I liked about this chapter was that it emphasizes how important 
 
 **Reading Reflection, #5:**
 
-Find a reading on information overwhelm and dealing with student mental health. Maybe this one? https://doi.org/10.3390/socsci6030099
+*Reading:* Accardi, M.T. (2010). *Feminist pedagogy for library instruction.* Duluth, MN: Library Juice Press.
+
+Accardi's idea of using feminist pedagogy to decenter patriarchy and make space for marginalized voices is very appealing to me, and I also like her focus on being very active in this process. Just talking about present circumstances is unlikely to help, not when we could be taking 'practical steps to end suffering' (p. 12). I also like how honest Accardi is, relating classroom and library experiences where she has encountered resistance to feminist pedagogy. Accardi's personal definition of this is: "feminist pedagogy is broadly concerned with social justice and sees education as a site for social change and transformation, exposing and ending opression against women and all other kinds of marginalization" (p. 27-28). 
+
+While at first glance, it seems like something everyone could support, I suppose I shouldn't be surprised by how controversial 'transformation' of any kind is. Accardi's feminist pedagogy is very similar to other critical pedagogical theories in that it resists passive learning, and promotes active, engaged classrooms where either party, instructor or student, can potentially learn from each other. In fact, Accardi notes that sometimes feminist pedagogy can be mistaken for not being teaching at all, as many students are unaccustomed to an environment with more questions than answers, and limited assertion of authority (p. 31). Feminist pedagogy also adds the elements of being anti-hierarchical, with an emphasis on women's experiences. 
+
+I also liked Accardi's somewhat subtle approaches to 'consciousness-raising' when teaching, for instance, having students research a topic, such as women in computer science, where they'll see, through searching, information about sexism in tech. Especially for students who may be encountering this kind of thinking for the first time, I think gradual methods like this one are more likely to be effective. 
+
+One issue I would love to have the opportunity to ask Accardi about is privileging the student voice. While I agree with this strategy and think it's important to do this not just for critical pedagogy reasons, but for the sake of preparing students for post-degree, when they'll be making decisions and taking charge, I do wonder how to balance it with what seems to be strong demands in higher education today for ROI, mostly owing to how expensive education is now. Conversation that I regularly hear among my own fellow graduate students are along the lines of, 'I'm paying too much money for this to not get answers and/or just discuss ideas with my fellow classmates.' Is the incredibly high cost of education reinforcing what Freire termed the 'banking system of education'? I'm afraid that it is.
+
+**Reading Reflection #6:**
+
+*Reading:* Fullagar, S., Rich, E., & Francombe-Webb, J. (2017). New Kinds of (Ab)normal?: Public Pedagogies, Affect, and Youth Mental Health in the Digital Age. *Social Sciences 6*(3), 99. doi:10.3390/socsci6030099.
+
+This quarter in particular, I've noticed the debilitating effects of mental health on student populations (both personally, across the iSchool, and among students I was TAing), and I started to wonder critical pedagogical theory might be available on this topic. I also wanted to know what connections have been made between information overload and mental wellbeing. Thus, I found and read the above article, as something to reflect on while closing out my quarter. 
+
 
 
