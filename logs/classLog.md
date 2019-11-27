@@ -11,8 +11,6 @@
 | **November 13** | Data Literacy (my session) & The Ethics of Paywalls | Taught class for one hour, then listened in on Althea's session on the ethics of paywall and academic journal access. | 4 hours |
 | **November 20** | Project Conferences | Answered questions about literature reviews, provided tech assistance, etc. | 3.5 hours |
 | November 27 | No class meeting | - | - |
-| December 4 | - | - | - |
+| **December 4** | Last Class | - | - |
 
-## Resource List
-1. [How to Survive a Plague | Wikipedia entry](https://en.wikipedia.org/wiki/How_to_Survive_a_Plague)
-2. [EthnoMed](https://ethnomed.org)
+
