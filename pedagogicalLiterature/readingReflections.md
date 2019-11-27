@@ -41,7 +41,7 @@ The other thing I liked about this chapter was that it emphasizes how important 
 
 **Reading Reflection, #5:**
 
-*Reading:* Accardi, M.T. (2010). *Feminist pedagogy for library instruction.* Duluth, MN: Library Juice Press.
+*Reading:* Accardi, M.T., & Vukovic, J. (2013). *Feminist pedagogy for library instruction.* Sacramento, CA: Library Juice Press.
 
 Accardi's idea of using feminist pedagogy to decenter patriarchy and make space for marginalized voices is very appealing to me, and I also like her focus on being very active in this process. Just talking about present circumstances is unlikely to help, not when we could be taking 'practical steps to end suffering' (p. 12). I also like how honest Accardi is, relating classroom and library experiences where she has encountered resistance to feminist pedagogy. Accardi's personal definition of this is: "feminist pedagogy is broadly concerned with social justice and sees education as a site for social change and transformation, exposing and ending opression against women and all other kinds of marginalization" (p. 27-28). 
 
